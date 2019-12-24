@@ -1,3 +1,5 @@
 print('hello')
 print('hii')
-
+print('deepti')
+print('kitty')
+print('bbyeeee')
